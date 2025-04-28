@@ -30,28 +30,29 @@
                 <h1>My Projects</h1>
                 <section>
                     <h2>Gimme Weather (WIP)<a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                    <p class="indent">A WPF application that displays current weather information per the user’s geographic area. The code of this application builds on foundational C# and OOP principles while incorporating external API calls and data binding.</p>
                         <img src="img/wip.gif" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Everybody Loves Cards!<a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="img/wip.gif" class="indent" alt="">
+                    <p class="indent">A modular console application for card games, including the games “High or Low,” “Same or Different,” and “Highest Match.” The code of this application incorporates polymorphism, inheritance, and separation of concern to construct a card game framework where new games can be created easily.</p>
+                        <img src="img/cards1.png" class="indent" alt="">
+                        <img src="img/cards2.png" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Ordle<a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="img/wip.gif" class="indent" alt="">
+                    <p class="indent">A “Wordle” WPF application where the player has six chances to guess a five-letter word. Demonstrates loading in external data and dynamically generating WPF elements.</p>
+                        <img src="img/ordle.png" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Prep Buddy<a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">A weekly meal planner console application demonstrating the principles of object oriented programming.</p>
-                        <img src="img/prepbuddyconsole.png" class="indent" alt="A console window showing the meal plan screen of a meal planning application.">
+                    <p class="indent">A weekly meal planner command-line application demonstrating the principles of object oriented programming. Users can add a recipe and its ingredients to a formatted table to help them plan meals for the week. </p>
+                        <img src="img/prepbuddyconsole.png" class="indent" alt="A command-line window showing the meal plan screen of a meal planning application.">
                 </section>
                 <section>
-                    <h2>Project 5 <a href="" target="_blank">🔗</a></h2>                
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="img/wip.gif" class="indent" alt="">
+                    <h2>Prep Buddy WPF<a href="" target="_blank">🔗</a></h2>                
+                    <p class="indent">A port of the console-line Prep Buddy project into WPF. Utilizes saving and loading external data, allowing users to save plans in a text file that can be retrieved or overridden later.</p>
+                        <img src="img/prepbuddywpf.png" class="indent" alt="">
                 </section>
             </main>
         </div>
