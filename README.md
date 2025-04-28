@@ -1,4 +1,5 @@
 # apeissigma.github.io
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -20,33 +21,36 @@
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>Javascript</li>
+                    <li>C#</li>
                 </ul>
                 <h3>Learning...</h3>
                 <ul>
-                    <li>C#</li>
-                    <li>React</li>
-                    <li>PHP</li>
+                    <li>C++</li>
+                    <li>p5.js</li>
                 </ul>
                 <h3><a href="https://github.com/apeissigma" target="_blank">🔗 Github</a></h3>
             </aside>
             <main>
                 <h1>My Projects</h1>
                 <section>
-                    <h2>Prep Buddy <a href="" target="_blank">🔗</a></h2>
+                    <h2>Gimme Weather (WIP)<a href="" target="_blank">🔗</a></h2>
+                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                        <img src="#" class="indent" alt="">
+                </section>
+                <section>
+                    <h2>Everybody Loves Cards!<a href="" target="_blank">🔗</a></h2>
+                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                        <img src="#" class="indent" alt="">
+                </section>
+                <section>
+                    <h2>Ordle<a href="" target="_blank">🔗</a></h2>
+                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                        <img src="#" class="indent" alt="">
+                </section>
+                <section>
+                    <h2>Prep Buddy<a href="" target="_blank">🔗</a></h2>
                     <p class="indent">A weekly meal planner console application demonstrating the principles of object oriented programming.</p>
-                        <img src="prepbuddyconsole.png" class="indent">
-                </section>
-                <section>
-                    <h2>Project 2 <a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                </section>
-                <section>
-                    <h2>Project 3 <a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                </section>
-                <section>
-                    <h2>Project 4 <a href="" target="_blank">🔗</a></h2>
-                    <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                        <img src="img/prepbuddyconsole.png" class="indent" alt="A console window showing the meal plan screen of a meal planning application.">
                 </section>
                 <section>
                     <h2>Project 5 <a href="" target="_blank">🔗</a></h2>                
