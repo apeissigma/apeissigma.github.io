@@ -31,17 +31,17 @@
                 <section>
                     <h2>Gimme Weather (WIP)<a href="" target="_blank">🔗</a></h2>
                     <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="#" class="indent" alt="">
+                        <img src="img/wip.gif" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Everybody Loves Cards!<a href="" target="_blank">🔗</a></h2>
                     <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="#" class="indent" alt="">
+                        <img src="img/wip.gif" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Ordle<a href="" target="_blank">🔗</a></h2>
                     <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
-                        <img src="#" class="indent" alt="">
+                        <img src="img/wip.gif" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Prep Buddy<a href="" target="_blank">🔗</a></h2>
@@ -51,6 +51,7 @@
                 <section>
                     <h2>Project 5 <a href="" target="_blank">🔗</a></h2>                
                     <p class="indent">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vitae aliquam nunc. Maecenas sit amet justo ut felis lobortis venenatis. Proin ultricies dolor porttitor egestas egestas. Aliquam euismod varius tristique. </p>
+                        <img src="img/wip.gif" class="indent" alt="">
                 </section>
             </main>
         </div>
