@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -10,7 +9,7 @@
     <body>
         <div id="all">
             <aside>
-                <img src="mii2.png">
+                <img src="img/mii2.png">
                 <h1 class="center">Ashani Li Peissigma</h1>
                 <h3 class="center">📍Chicago, IL</h3>
                 <p>I'm a guy that likes to have fun. Year of the snake. Kaiju friend. Student of code.</p>
