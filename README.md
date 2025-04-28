@@ -10,13 +10,10 @@
             <aside>
                 <img src="img/mii2.png">
                 <h1 class="center">Ashani Li Peissigma</h1>
-                <h3 class="center">📍Chicago, IL</h3>
-                <p>I'm a guy that likes to have fun. Year of the snake. Kaiju friend. Student of code.</p>
+                <p>PROG201 Portfolio!</p>
                 <h3>Skills</h3>
                 <ul>
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascript</li>
+                    <li>HTML/CSS/JS</li>
                     <li>C#</li>
                 </ul>
                 <h3>Learning...</h3>
