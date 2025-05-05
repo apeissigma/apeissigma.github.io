@@ -48,6 +48,9 @@ main
     margin-left: 265px;
 }
 
+.markdown-body h1{
+    font-size: 20px; 
+}
 .markdown-body img 
 {
     background-color: #ffffff00;
