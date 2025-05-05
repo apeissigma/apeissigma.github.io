@@ -41,6 +41,15 @@
                     <h2><a href="https://github.com/apeissigma/Ordle">Ordle</a></h2>
                     <p class="indent">A “Wordle” WPF application where the player has six chances to guess a five-letter word. Demonstrates loading in external data and dynamically generating WPF elements.</p>
                         <img src="img/ordle.png" class="indent">
+                <section>
+                    <h2><a href="https://github.com/apeissigma/ProgrammingQuiz">Programming Quiz</a></h2>
+                    <p class="indent">A console-line application utilizing the dictionary collection class and external data loading through System.IO. Users can view all terms, search for a specific term keys, and take a randomly generated 10-question quiz.</p>
+                        <img src="img/quiz.png" class="indent">
+                </section>
+                <section>
+                    <h2><a href="https://github.com/apeissigma/Creature-World">Creature World</a></h2>
+                    <p class="indent">Description</p>
+                        <img src="img/creatureworld.png" class="indent">
                 </section>
                 <section>
                     <h2><a href="https://github.com/apeissigma/PrepBuddy">Prep Buddy</a></h2>
