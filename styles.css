@@ -47,14 +47,10 @@ main
 {
     margin-left: 265px;
 }
-main img 
-{
-    margin-left: 10px; 
-    max-width: 60%; 
-    max-width: 400px; 
-}
 
 .markdown-body img 
 {
     background-color: #ffffff00;
+    max-width: 400px; 
+    margin-left: 10px; 
 }
