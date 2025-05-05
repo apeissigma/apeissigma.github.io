@@ -32,7 +32,7 @@
                         <img src="img/weather2.png" class="indent" alt="">
                 </section>
                 <section>
-                    <h2>Everybody Loves Cards!<</h2>
+                    <h2>Everybody Loves Cards!</h2>
                     <p class="indent">A modular console application for card games, including the games “High or Low,” “Same or Different,” and “Highest Match.” The code of this application incorporates polymorphism, inheritance, and separation of concern to construct a card game framework where new games can be created easily.</p>
                         <img src="img/cards1.png" class="indent" alt="">
                         <img src="img/cards2.png" class="indent" alt="">
