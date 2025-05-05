@@ -28,7 +28,8 @@
                 <section>
                     <h2>Gimme Weather (WIP)<a href="" target="_blank">🔗</a></h2>
                     <p class="indent">A WPF application that displays current weather information per the user’s geographic area. The code of this application builds on foundational C# and OOP principles while incorporating external API calls and data binding.</p>
-                        <img src="img/wip.gif" class="indent" alt="">
+                        <img src="img/weather1.png" class="indent" alt="">
+                        <img src="img/weather2.png" class="indent" alt="">
                 </section>
                 <section>
                     <h2>Everybody Loves Cards!<a href="" target="_blank">🔗</a></h2>
