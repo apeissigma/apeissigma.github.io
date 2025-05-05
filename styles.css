@@ -38,8 +38,8 @@ aside
 }
 aside img 
 {
-    margin: 5% 5% 10% 5%; 
-    width: 60%; 
+    padding: 5%; 
+    width: 80%; 
     filter: drop-shadow(2px 3px 2px rgba(0, 0, 0, 0.05));
 }
 
