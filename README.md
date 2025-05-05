@@ -26,7 +26,7 @@
             <main>
                 <h1>My Projects</h1>
                 <section>
-                    <h2>Gimme Weather (WIP)</h2>
+                    <h2><a href="https://github.com/apeissigma/WeatherMoment">Weather Moment</a></h2>
                     <p class="indent">A WPF application that displays current weather information per the user’s geographic area. The code of this application builds on foundational C# and OOP principles while incorporating external API calls and data binding.</p>
                         <img src="img/weather1.png" class="indent">
                         <img src="img/weather2.png" class="indent">
