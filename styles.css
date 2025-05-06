@@ -48,8 +48,13 @@ main
     margin-left: 232px;
 }
 
-.markdown-body h1{
+.markdown-body h1
+{
     font-size: 26px; 
+}
+.markdown-body h3 
+{
+    font-size: 22px; 
 }
 .markdown-body img 
 {
