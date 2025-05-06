@@ -43,12 +43,12 @@
                         <img src="img/ordle.png" class="indent">
                 <section>
                     <h2><a href="https://github.com/apeissigma/ProgrammingQuiz">Programming Quiz</a></h2>
-                    <p class="indent">A console-line application utilizing the dictionary collection class and external data loading through System.IO. Users can view all terms, search for a specific term keys, and take a randomly generated 10-question quiz.</p>
+                    <p class="indent">A command-line application utilizing the dictionary collection class and external data loading through System.IO. Users can view all terms, search for a specific term keys, and take a randomly generated 10-question quiz.</p>
                         <img src="img/quiz.png" class="indent">
                 </section>
                 <section>
                     <h2><a href="https://github.com/apeissigma/Creature-World">Creature World</a></h2>
-                    <p class="indent">Description</p>
+                    <p class="indent">A command-line game where the user can navigate to different locations in Chicago (objects derived from a base location class) and meet different “creatures” (human and animal objects derived from a base creature class). Demonstrates the use of delegates for utility methods and interfaces.</p>
                         <img src="img/creatureworld.png" class="indent">
                 </section>
                 <section>
@@ -58,7 +58,7 @@
                 </section>
                 <section>
                     <h2><a href="https://github.com/apeissigma/PrepBuddyWPF">Prep Buddy WPF</a></h2>                
-                    <p class="indent">A port of the console-line Prep Buddy project into WPF. Utilizes saving and loading external data, allowing users to save plans in a text file that can be retrieved or overridden later.</p>
+                    <p class="indent">A port of the command-line Prep Buddy project into WPF. Utilizes saving and loading external data, allowing users to save plans in a text file that can be retrieved or overridden later.</p>
                         <img src="img/prepbuddywpf.png" class="indent">
                 </section>
             </main>
