@@ -16,9 +16,10 @@
                     <li>HTML/CSS/JS</li>
                     <li>C#</li>
                 </ul>
-                <h3>Learning...</h3>
+                <h3>Learning</h3>
                 <ul>
-                    <li>C++</li>
+                    <li>SQL</li>
+                    <li>MongoDB</li>
                     <li>p5.js</li>
                 </ul>
                 <h3><a href="https://github.com/apeissigma" target="_blank">🔗 Github</a></h3>
