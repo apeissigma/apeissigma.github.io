@@ -26,18 +26,13 @@
             <main>
                 <h1>My Projects</h1>
                 <section>
-                    <h2>Title</h2>
-                    <p class="indent">Description.</p>
+                    <h2>Composition Generator</h2>
+                    <p class="indent">Description</p>
                         <img src="img/weather1.png" class="indent">
                 </section>
                 <section>
-                    <h2>Title</h2>
-                    <p class="indent">Description.</p>
-                        <img src="img/weather1.png" class="indent">
-                </section>
-                <section>
-                    <h2>Title</h2>
-                    <p class="indent">Description.</p>
+                    <h2>Data Visualization</h2>
+                    <p class="indent">Description</p>
                         <img src="img/weather1.png" class="indent">
                 </section>
             </main>
