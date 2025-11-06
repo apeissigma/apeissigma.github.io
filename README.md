@@ -29,7 +29,7 @@
                 <section>
                     <h2>Composition Generator</h2>
                     <p class="indent">Description</p>
-                        <img src="img/img1.png" class="indent">
+                        <img src="img/img1.jpg" class="indent">
                 </section>
                 <section>
                     <h2>Data Visualization</h2>
