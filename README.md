@@ -28,12 +28,12 @@
                 <section>
                     <h2>Composition Generator</h2>
                     <p class="indent">Description</p>
-                        <img src="img/weather1.png" class="indent">
+                        <img src="img/img1.png" class="indent">
                 </section>
                 <section>
                     <h2>Data Visualization</h2>
                     <p class="indent">Description</p>
-                        <img src="img/weather1.png" class="indent">
+                        <img src="img/datavis.png" class="indent">
                 </section>
             </main>
         </div>
