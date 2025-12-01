@@ -29,25 +29,26 @@
                 <section>
                     <h2>Project Title</h2>
                     <p class="indent">Description</p>
-                        <img src="img/img1.jpg" class="indent">
+                        <img src="img/img1.png" class="indent">
+                        <img src="img/img2.png" class="indent">
                 </section>
                 <section>
-                    <h2>Project Title</h2>
+                    <h2>Doodle Guesser</h2>
                     <p class="indent">Description</p>
-                        <img src="img/img1.jpg" class="indent">
+                        <img src="img/doodleguesser.jpg" class="indent">
                 </section>
                 <section>
-                    <h2>Project Title</h2>
+                    <h2>Rubber Duck Guessing Game</h2>
                     <p class="indent">Description</p>
-                        <img src="img/img1.jpg" class="indent">
+                        <img src="img/guessingGamev2.png" class="indent">
                 </section>
                 <section>
-                    <h2>Project Title</h2>
+                    <h2>Morse Code Converter</h2>
                     <p class="indent">Description</p>
-                        <img src="img/img1.jpg" class="indent">
+                        <img src="img/morsev2.png" class="indent">
                 </section>
                 <section>
-                    <h2>Project Title</h2>
+                    <h2>Composition Generator</h2>
                     <p class="indent">Description</p>
                         <img src="img/img1.jpg" class="indent">
                 </section>
