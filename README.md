@@ -27,14 +27,29 @@
             <main>
                 <h1>My Projects</h1>
                 <section>
-                    <h2>Composition Generator</h2>
+                    <h2>Project Title</h2>
                     <p class="indent">Description</p>
                         <img src="img/img1.jpg" class="indent">
                 </section>
                 <section>
-                    <h2>Data Visualization</h2>
+                    <h2>Project Title</h2>
                     <p class="indent">Description</p>
-                        <img src="img/datavis.png" class="indent">
+                        <img src="img/img1.jpg" class="indent">
+                </section>
+                <section>
+                    <h2>Project Title</h2>
+                    <p class="indent">Description</p>
+                        <img src="img/img1.jpg" class="indent">
+                </section>
+                <section>
+                    <h2>Project Title</h2>
+                    <p class="indent">Description</p>
+                        <img src="img/img1.jpg" class="indent">
+                </section>
+                <section>
+                    <h2>Project Title</h2>
+                    <p class="indent">Description</p>
+                        <img src="img/img1.jpg" class="indent">
                 </section>
             </main>
         </div>
