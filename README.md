@@ -27,7 +27,7 @@
                     <h2>Cookies & The Right to Anonymity on the Web</h2>
                     <p class="indent">This project’s topic was on data collection and privacy, as it impacts everyone, from users to designers to developers (the latter two being my discipline). I wanted to spread awareness about cookies by explaining what exactly they are, what they do, why they can be dangerous, and what the average internet user can do to protect their data online. Using my research, I created a small, interactive presentation using the Flickity JavaScript library. In my presentation, I also included a web developer’s perspective on the pros and cons of cookies, as well as how to implement them ethically. </p>
                         <img src="img/final_1.jpg" class="indent">
-                        <img src="img/fianl_1-1.jpg" class="indent">
+                        <img src="img/final_1-1.jpg" class="indent">
                 </section>
                 <section>
                     <h2>Doodle Guesser</h2>
@@ -47,7 +47,7 @@
                 <section>
                     <h2>Suprematism Composition Generator</h2>
                     <p class="indent">The project uses the p5.js JavaScript library to create randomly generated compositions of different shapes and colors. The initial randomness reminded me of early Bauhaus posters and the Suprematism movement, so I decided to run with that style. This concept evolved into an application that lets users customize the parameters to change the amount of shapes generated.</p>
-                        <img src="img/final_5.jpg" class="indent">
+                        <img src="img/final_5-1.jpg" class="indent">
                 </section>
             </main>
         </div>
